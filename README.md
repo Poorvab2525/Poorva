@@ -7,7 +7,7 @@ I'm a Computer Science undergrad at **NITK Surathkal**.
 - 🧭 Currently exploring the intersection of **web development** and **cloud-native architectures**
 - 🔧 Love working with **React**, **Node.js**, and **MySQL** on the web dev side
 - 🐳 Also hands-on with **Docker**, **K3S**, and **OpenFaaS** — building peer-to-peer FaaS systems
-- 📊 I like turning complex backend metrics into clean dashboards with **Prometheus + Grafana**
+- 📊 I also have hands-on experience with **Prometheus + Grafana**
 
 ---
 
